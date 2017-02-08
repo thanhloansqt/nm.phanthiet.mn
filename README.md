@@ -39,11 +39,11 @@ load http://localhost:3000/
 ## Directory map
 
 ```
-├ src       // pplication folder
+├ src       // application folder
 ├ dist      // application folder after building
-│  │
-│  │
-│  └  index.html
+│ │
+│ │
+│ └  index.html
 └ gulpfile.js
 ```
 
