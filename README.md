@@ -3,7 +3,7 @@
 
 ## Development environment
 
-### 1. GitHub repository (for Vietnam member)
+### 1. GitHub repository 
 
 Repository: [https://github.com/thanhloansqt/nm.phanthiet.mn.git](https://github.com/thanhloansqt/nm.phanthiet.mn.git)
 
