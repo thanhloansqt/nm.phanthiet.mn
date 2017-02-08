@@ -33,6 +33,20 @@ $ npm install
 ```sh
 $ gulp
 ```
+load http://localhost:3000/
+
+
+## Directory map
+
+```
+├ src       // pplication folder
+├ dist      // application folder after building
+│  │
+│  │
+│  └  index.html
+└ gulpfile.js
+```
+
 ### Browser Support
 
 * Windows 7
